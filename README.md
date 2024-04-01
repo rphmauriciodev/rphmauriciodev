@@ -1,5 +1,5 @@
 ### Olá, eu sou Raphael Maurício 👨‍💻
-#### Sou técnico em Desenvolvimento de Sistemas
+#### Sou Desenvolvedor de Software
 #
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/rph.mauriciohttps://www.linkedin.com/in/raphael-mauricio-496870183/)
@@ -25,7 +25,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por programação, desenvolvedor fullstack.
+Apaixonado por programação, desenvolvedor fullstack com main stack BACKEND.
 
 ### Contatos:
 
