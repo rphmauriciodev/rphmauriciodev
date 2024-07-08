@@ -9,7 +9,7 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rphmauriciodev&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rphmauriciodev&layout=compact)
-## Tecnologias que eu mais uso
+## Stacks proficientes
 
 <div style="display: inline_block">
 
