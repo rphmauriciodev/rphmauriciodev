@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rph.mauricio)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/condorruffles)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rphmauriciodev&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rphmauriciodev&layout=compact)
 ## Stacks proficientes
 
