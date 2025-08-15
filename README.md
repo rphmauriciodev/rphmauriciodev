@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/rph.mauriciohttps://www.linkedin.com/in/raphael-mauricio-496870183/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rph.mauricio)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/condorruffles)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rphmauriciodev&layout=compact)
 ## Stacks proficientes
 
 <div style="display: inline_block">
