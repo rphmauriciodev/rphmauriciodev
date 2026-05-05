@@ -36,12 +36,6 @@ Transformando café em código de alta abstração.
 ### 🛠️ No meu "Lab" agora:
 - ⌚ Prototipando com **ESP32**, sensores e backend em **Go** para gerenciar as requisições.
 - ☁️ Automatizando ambientes com **Terraform** e explorando serviços serverless.
-
----
-
-### 📊 My Stats
-![Seu Card de Status do GitHub](https://github-readme-stats.vercel.app/api?username=rphmauriciodev&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 📫 Conecte-se comigo:
