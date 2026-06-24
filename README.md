@@ -3,7 +3,7 @@
 Dev Fullstack focado em backend, apaixonado por lógicas complexas e sistemas que escalam. 
 Transformando café em código de alta abstração.
 
-- 🐧 Daily driver: **Ubuntu** (Linux life).
+- Daily driver: **ARCH** (Linux life).
 
 ### ⚙️ Tecnologias & Ecossistemas
 **Backend & Core**
@@ -34,7 +34,6 @@ Transformando café em código de alta abstração.
 </div>
 
 ### 🛠️ No meu "Lab" agora:
-- ⌚ Prototipando com **ESP32**, sensores e backend em **Go** para gerenciar as requisições.
 - ☁️ Automatizando ambientes com **Terraform** e explorando serviços serverless.
 ---
 
